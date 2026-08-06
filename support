@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warp Mania - Support</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #111827;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 650px;
+            width: 100%;
+            background: #1f2937;
+            padding: 50px;
+            border-radius: 16px;
+            box-shadow: 0 20px 40px rgba(0,0,0,.35);
+            text-align: center;
+        }
+
+        h1 {
+            color: #3bb9ff;
+            margin-bottom: 10px;
+            font-size: 2.2rem;
+        }
+
+        h2 {
+            font-weight: normal;
+            color: #cbd5e1;
+            margin-bottom: 35px;
+            font-size: 1.1rem;
+        }
+
+        p {
+            line-height: 1.7;
+            margin-bottom: 18px;
+            color: #e5e7eb;
+        }
+
+        a {
+            color: #4fc3ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .email {
+            margin: 30px 0;
+            font-size: 1.2rem;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: .9rem;
+            color: #9ca3af;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Warp Mania</h1>
+    <h2>Support</h2>
+
+    <p>
+        If you experience any issue with Warp Mania or have any questions,
+        suggestions or feedback, please contact us by email.
+    </p>
+
+    <div class="email">
+        📧<br><br>
+        <a href="mailto:contact@DNA-Games-Studio.com">
+            contact@DNA-Games-Studio.com
+        </a>
+    </div>
+
+    <p>
+        We will do our best to respond as quickly as possible.
+    </p>
+
+    <div class="footer">
+        © 2026 DNA Games Studio
+    </div>
+
+</div>
+
+</body>
+</html>
